@@ -1,0 +1,48 @@
+software engineering cs301
+
+course description and objectives
+this course focuses on the concepts of  software life cycle role of process models and methods to prepare software requirement specification document in addition to that it also imparts knowledge  of  design development and testing of software the objective of this course is to enable  the student to develop efficient cost effective  feasible software as per user requirements
+
+course outcomes
+the student will be able to
+define appropriate process model that ensures development and delivery of the project within initial budget and schedule estimates
+prepare a software requirement specification srs document for any software project
+analyze and understand the complex problems using analysis modeling
+distinguish  between  objectoriented approach and  traditional approach in system design
+design the project solution using uml diagrams like use case sequence diagrams etc
+prepare a right software architecture that meets all quality constraints
+design as many test cases as possible to ensure bug free software
+apply various  metrics to measure software product size complexity effort budget etc
+identify the possible risks in project development and develop risk mitigation steps 
+
+skills  
+define a process for developingcompleting different kinds of projects on time with expected quality
+understand the software requirements and find out various ways to gather them and specifying them
+analyze and model diagrammaticalrepresentations a software product
+design an effective userfriendly interface  for a given software product
+find and fix  the bugs in a software product
+
+unit1
+introduction  to software engineering  the evolving role of software software changing nature of software software myths
+generic view of process  software engineering  a layered technology a process framework software development life cycle sdlc the capability maturity model integration cmmi process assessment
+process models the waterfall model incremental process models evolutionary process models spiral and prototype models
+
+unit2
+an agile view of process  agile process models  the unified process extreme programming scrum
+requirements engineering inception elicitation elaboration negotiation specification srs   document ieee standards for srs validation requirements management feasibility study
+building the analysis model data modeling  data objects attributes relationship cardinality and modality class based modeling  identify analysis classes specify attributes and define operations
+
+unit3
+design engineering  design concepts the design model
+creating an architectural design software architecture data design architectural styles and patterns architectural design
+performing user interface design golden rules user interface analysis and design interface analysis interface design steps design evaluation
+
+unit4
+product metrics software quality metrics for analysis model metrics for design model architecture metrics and object oriented metrics metrics for source code metrics for testing metrics for maintenance
+testing strategies a strategic approach to software testing test strategies for conventional software validation testing system testing testing tactics  blackbox and whitebox testing
+
+unit5
+risk management  reactive vs proactive risk strategies software risks risk identification risk projection risk refinement rmmm rmmm plan
+quality mangement quality concepts software quality assurance software reviews formal technical reviews statistical software quality assurance software reliability the iso 9000 quality
+standards
+

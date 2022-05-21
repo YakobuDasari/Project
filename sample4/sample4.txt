@@ -1,0 +1,48 @@
+SOFTWARE ENGINEERING (CS301)
+
+Course Description and Objectives:
+This course focuses on the concepts of  software life cycle, role of process models and methods to prepare software software 0 specification document. In addition to that, it also imparts knowledge  of  design, development and testing of software 1. The objective of this course is to enable  the student to develop efficient, cost effective,  feasible software as per user software 0s.
+
+Course Outcomes:
+The student will be able to:
+Define appropriate process model that ensures development and delivery of the software 2 within initial budget and schedule estimates.
+Prepare a Software Requirement Specification (SRS) document for any software software 2.
+Analyze and understand the complex problems using analysis modeling.
+Distinguish  between  object-oriented approach and  traditional approach in system design.
+Design the software 2 solution using UML diagrams like use case, sequence diagrams etc.
+Prepare a right software architecture that meets all quality constraints.
+Design as many test cases as possible to ensure bug free software 1.
+Apply various  metrics to measure software product size, complexity, effort, budget etc.
+Identify the possible risks in software 2 development and develop risk mitigation steps. 
+
+Skills:  
+Define a process for developing/completing different kinds of software 2s on time with expected quality.
+Understand the software software 0s and find out various ways to gather them and specifying them.
+Analyze and model (Diagrammatical/Representations) a software product.
+Design an effective, user-friendly interface  for a given software product.
+Find and fix  the bugs in a software product.
+
+UNIT:1
+INTRODUCTION  TO SOFTWARE ENGINEERING:  The evolving role of software 1, Software, Changing Nature of Software, Software myths.
+GENERIC VIEW OF PROCESS:  Software Engineering - A layered technology, A process framework, Software Development Life Cycle (SDLC), The Capability Maturity Model Integration (CMMI), Process Assessment.
+PROCESS MODELS: The Waterfall Model, Incremental Process Models, Evolutionary Process Models (Spiral and Prototype models).
+
+UNIT:2
+AN AGILE VIEW OF PROCESS:  Agile process models - The Unified process, Extreme Programming, Scrum.
+REQUIREMENTS ENGINEERING: Inception, Elicitation, Elaboration, Negotiation, Specification (SRS   Document, IEEE Standards for SRS), Validation, Requirements management, Feasibility Study.
+BUILDING THE ANALYSIS MODEL: Data modeling - Data objects, Attributes, Relationship, Cardinality and modality; Class based modeling - Identify analysis classes, Specify attributes and Define operations.
+
+UNIT:3
+DESIGN ENGINEERING:  Design concepts, The design model.
+CREATING AN ARCHITECTURAL DESIGN: Software architecture, Data design, Architectural styles and patterns, Architectural Design.
+PERFORMING USER INTERFACE DESIGN: Golden rules, User interface analysis and design, Interface analysis, Interface design steps, Design evaluation.
+
+UNIT:4
+PRODUCT METRICS: Software Quality, Metrics for Analysis Model, Metrics for Design Model: Architecture Metrics and Object Oriented Metrics, Metrics for source code, Metrics for testing, Metrics for maintenance.
+TESTING STRATEGIES: A strategic approach to software testing, Test strategies for conventional software 1, Validation testing, System testing; Testing Tactics - Black-Box and White-Box testing.
+
+UNIT:5
+RISK MANAGEMENT:  Reactive vs Proactive Risk strategies, Software risks, Risk identification, Risk software 2ion, Risk refinement, RMMM, RMMM Plan.
+QUALITY MANGEMENT: Quality concepts, Software quality assurance, Software Reviews, Formal technical reviews, Statistical Software quality Assurance, Software reliability, The ISO 9000 quality
+standards.
+
