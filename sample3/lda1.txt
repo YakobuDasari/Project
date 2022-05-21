@@ -1,0 +1,1 @@
+[(0, '0.046*"cloud" + 0.029*"information" + 0.029*"compute" + 0.015*"security" + 0.015*"algorithm" + 0.015*"gnfs" + 0.012*"one" + 0.012*"consumer" + 0.012*"number" + 0.012*"property"'), (1, '0.006*"cloud" + 0.006*"compute" + 0.006*"information" + 0.006*"gnfs" + 0.006*"algorithm" + 0.006*"security" + 0.006*"data" + 0.006*"rsa" + 0.006*"use" + 0.006*"number"')]
