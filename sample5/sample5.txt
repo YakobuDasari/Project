@@ -1,0 +1,43 @@
+MINUTES OF THE DEPARTMENT ADVISORY COMMITTEE
+MEETING HELD ON 15.12.2016
+		The Department Advisory Committee Meeting of Department of Computer Science & Engineering was held on 15-12-2016 at 10:00 AM in the HoD’s Cabin, II Floor, and JC-Block. Dr. Venkatesulu Dondeti, Head, CSE has chaired the meeting and the following members have attended the meeting.
+S. No	Members	Designation	Signature
+1	Dr. Venkatesulu  Dondeti
+ 	Professor & HOD 	Chairman	
+2	Dr. Gnaneswara Rao
+	Professor	Member	
+3	Dr. K. Hemanth Kumar,  Professor	Member	
+4	Mr. S. V. Rama Krishna, Asst. Professor	Member	
+			
+According to the feedback given by stake holders and after thorough analysis, it is consolidated and following resolutions are made.
+Agenda of the Meeting:
+
+1. Discussion on stakeholder feedback on R13 & R16 Curriculum
+2. Discussion on CO & PO attainment outcomes
+3. Actions to be initiated to address the noncompliance of Curriculum with POs 
+
+Minutes of the Meeting:
+1. Dr. Venkatesulu, Chair of the meeting has informed that, as per the stakeholder's feedback old curriculum need revision and new curriculum  of UG  program should be proposed. 
+
+2. The committee members have discussed on the feedback given by various stakeholders
+
+3. The committee members discussed by introducing the few of the following POs. Few actions were suggested by committee members to bridge the gap between Curriculum and POs.
+
+4. From the CO & attainment report, the Committee concluded that among all the courses, some courses mapping with substantial correlation with Program Outcomes such as Engineering Knowledge (PO1), Problem Analysis (PO2), Design/ Development of Solutions (PO3), Individual and Team Work (PO9), Communications (PO10), Life Long Learning (PO12) and the remaining Program Outcomes such as Conduct Investigations of Complex Problems (PO4), Modern Tool Usage (PO5), The Engineer & Society (PO6), Environment and Sustainability (PO7), Ethics (PO8), Project Management and Finance (PO11) with moderate correlation.
+
+
+
+Suggestions:
+
+1.	Consistent up-gradation of the course curriculum in-line with the industry and society needs.
+2.	Integrate the courses with laboratories and minor projects to enrich problem-solving skills.
+3.	Involve the Industry and Research personnel in Course Curriculum Development, Course Evaluation, and Feedback to enhance the quality of the curriculum.
+4.	Inclusion of Employability and Life Skills (Extension Activities, Gardening, Yoga, etc.) as Credit Courses to realize the needs of Environment, Sustainability, and Society at large (PO7, PO12).
+5.	Organize a good number of the add-on and modular courses by industry experts to realize the exposure to modern tool usage and solving of complex problems (PO4, PO5).
+6.	Introduce extension activities thorough NSS, NCC etc., to inculcate social consciousness and to build ethics among the students (PO6 & PO8).
+7.	Encourage students to participate in global coding competitions and online certification courses (PO4, PO5).
+8.	Intensive coaching for Civils, GRE aspirants in the campus itself (PO6, PO12)
+9.	Organize various E-Cell activities, SAAC activities and by introducing the Management Courses to impart managerial skills and leadership qualities (PO11, PO12).
+10.	Mandate three mids
+11.	Rise mandate attendance from 75% to 80%.
+12.	Introduce continuous assessment both in theory and laboratory.
