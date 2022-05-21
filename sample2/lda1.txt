@@ -1,0 +1,1 @@
+[(0, '0.016*"item" + 0.016*"library" + 0.016*"rfid" + 0.016*"barcode" + 0.016*"tag" + 0.016*"reader" + 0.016*"identifier" + 0.016*"could" + 0.016*"physical" + 0.016*"electronic"'), (1, '0.065*"item" + 0.039*"library" + 0.030*"rfid" + 0.030*"barcode" + 0.022*"book" + 0.022*"etc" + 0.022*"number" + 0.022*"barcoded" + 0.022*"could" + 0.022*"identifier"')]
